@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Muriel Fernandes
-- 👀 I’m interested in Robotics, Embedded Systems
-- 🌱 I’m currently learning ROS, Kalman filter
-- 💞️ I’m looking to collaborate on projects related to ROS & on Microcontrollers
+- 👀 I’m interested in Embedded Systems
 - 📫 Contact : mrlfrnnds9@gmail.com
 
 <!---
